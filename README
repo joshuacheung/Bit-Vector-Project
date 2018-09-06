@@ -1,0 +1,8 @@
+Author: Joshua Cheung
+Date: 4/22/2017
+12B Program Assignment 1
+
+Description: This code intakes bit vectors and determines whether they are
+prime or composite in addition to determing whether it is a perfect number.
+I have cited the sieve of Eratosthenes and some code from the lecture on
+4/20/17. 
